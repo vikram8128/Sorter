@@ -12,4 +12,5 @@ Algorithms implemented:
 - [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort "Wikipedia")
 
 The following screenshot shows the program in the middle of a quicksort run.
-TODO
+
+![screenshot](https://cloud.githubusercontent.com/assets/23136505/22080965/84e96ab6-ddb9-11e6-9cfe-28721a3d1833.png)
