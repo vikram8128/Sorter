@@ -3,7 +3,7 @@ Graphical sorting algorithm demonstration.
 
 Algorithms implemented:
 - [Bogo Sort](https://en.wikipedia.org/wiki/Bogosort "Wikipedia") - Try this, but not for values greater than 10.
-- [Pankake Sort](https://en.wikipedia.org/wiki/Pancake_sorting "Wikipedia")
+- [Pancake Sort](https://en.wikipedia.org/wiki/Pancake_sorting "Wikipedia")
 - [Quicksort](https://en.wikipedia.org/wiki/Quicksort "Wikipedia")
 - [Cocktail Shaker Sort](https://en.wikipedia.org/wiki/Cocktail_shaker_sort "Wikipedia")
 - [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort "Wikipedia")
